@@ -1,6 +1,6 @@
 本仓库旨在帮助用户诊断和解决访问 Google Gemini 时遇到的常见问题。
 
-如：访问https://gemini.google.com/显示“出了点问题，请稍后再试”
-1. 确保你已连接好质量较好的美国节点。[1][8][9]
-2. 在浏览器中直接打开这个链接：https://gemini.google.com/gems/create?hl=en-US[4]
+如：访问`https://gemini.google.com/`显示“出了点问题，请稍后再试”
+1. 确保你已连接好质量较好的美国节点。
+2. 在浏览器中直接打开这个链接：`https://gemini.google.com/gems/create?hl=en-US`
 3. 这个页面会引导你进入自定义 Gem 的创建流程。通常在完成这个跳转或简单设置后，账号的对话功能会被“顶”开，从而恢复正常。
